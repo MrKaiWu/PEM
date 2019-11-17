@@ -1,5 +1,14 @@
 # HDF5 Data
 
+### update 20191117
+
+"xxx_gvkey.h5" files in this root folder uses gvkey as identifiers. All other files in the sub folders use gvkey, too.
+
+Files in the factors folder contain feature data as the input to PEM
+
+Files in the future_returns folder are generated using future_return.py.
+
+
 ### Format: 
 
 Values: the variable in interest
